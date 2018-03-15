@@ -18,6 +18,7 @@ The collaboration is based on the new Nvidia Drive Xavier, ZF’s new ProAI car 
 At the same time, Baidu Inc also announced its cooperation with Access Services, a US-based public paratransit services provider to launch a self-driving pilot project in Los Angeles by the end of this year, while the company and Singapore technology conglomerate Asia Mobility Industries unveiled a joint venture and a newly established $200 million fund to promote the commercialization of Baidu's autonomous driving technologies in Southeast Asia.
 
 ### ALIBABA
+Alibaba Group Holding Limited (Chinese: 阿里巴巴集团控股有限公司) is a Chinese multinational e-commerce, retail, Internet, AI and technology conglomerate founded in 1999 that provides consumer-to-consumer, business-to-consumer and business-to-business sales services via web portals, as well as electronic payment services, shopping search engines and cloud computing services. It owns and operates a diverse array of businesses around the world in numerous sectors and is named as one of the world's most admired companies by Fortune.
 
 At CES this year, the online retail giant Alibaba set up a major display area and showcased its payment service - Alipay, which helps US companies to reach many Chinese tourists coming to the US each year.
 
