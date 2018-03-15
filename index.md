@@ -31,7 +31,9 @@ Alibaba Group Holding Limited (Chinese: 阿里巴巴集团控股有限公司) is
 At CES this year, the online retail giant Alibaba set up a major display area and showcased its payment service - Alipay, which helps US companies to reach many Chinese tourists coming to the US each year.
 
 ### Huawei
+
 <img src= "https://www.investireoggi.it/tech/wp-content/uploads/sites/14/2016/11/huawei-logo-630x354-630x342.jpg">
+
 Huawei Technologies Co. Ltd. (Chinese: 华为) is a Chinese multinational networking, telecommunications equipment, and services company headquartered in Shenzhen, Guangdong. It is the largest telecommunications equipment manufacturer in the world, having overtaken Ericsson in 2012.  In 2017, Huawei became 83th of Fortune 500 in Fortune Magazine.
 "China wants to be the leader, not a follower in 5G," Richard Yu, CEO of Huawei's consumer products division, said in a keynote address.
 
@@ -41,6 +43,8 @@ For Huawei, 5G innovations made it into the keynote speech that launched the Mat
 
 ### ZTE
 
+<img src= "https://cms-bucket.nosdn.127.net/catchpic/5/50/50b153d554fde9cf1ab1aab0bf343968.jpg">
+
 ZTE Corporation, commonly shortened to ZTE （Chinese: 中兴）, is a Chinese multinational telecommunications equipment and systems company headquartered in Shenzhen, Guangdong.
 
 A staff member shows a dual-screen phone ZTE AXON M of China at Consumer Electronics Show (CES) in Las Vegas, the United States, Jan 10, 2018.
@@ -49,7 +53,7 @@ ZTE took its 5G Future Tunnel along to the expo to show visitors how the technol
 
 ### Byton
 
-Byton  (拜腾)announced Monday that it has partnered with self-driving vehicle technology startup Aurora. The buzzy startup, led some of the best minds in self-driving cars, will work on bringing Level 4 autonomous vehicle capabilities into Byton vehicles. The two companies will conduct a pilot deployment of Aurora's L4 autonomous driving systems on Byton vehicles in the "next two years." The pilot will be in California, Aurora CEO Chris Urmson said. Urmson previously led the Google self-driving project before it spun out to become Waymo, a business under parent Alphabet.
+Byton  (拜腾) announced Monday that it has partnered with self-driving vehicle technology startup Aurora. The buzzy startup, led some of the best minds in self-driving cars, will work on bringing Level 4 autonomous vehicle capabilities into Byton vehicles. The two companies will conduct a pilot deployment of Aurora's L4 autonomous driving systems on Byton vehicles in the "next two years." The pilot will be in California, Aurora CEO Chris Urmson said. Urmson previously led the Google self-driving project before it spun out to become Waymo, a business under parent Alphabet.
 
 Byton CEO Carsten Breitfeld speaks during the announcement of a smart intuitive vehicle concept car, the CES, in Las Vegas on Jan 7, 2018。
 This year's star is Byton, an electric car unveiled at CES known as China's Tesla. It is expected to be mass produced and sell at $45,000, making it a real competitor to Tesla.
@@ -71,19 +75,23 @@ Customers can ask the sound bar to launch video even when the TV is turned off. 
 <img src= "https://sampi.co/wp-content/uploads/2014/04/china_tech.jpg"> 
 
 
-## the Geo Distribution of the high-tech
+## the Geo Distribution of the high-tech in china 
 
 <img src= "https://i0.wp.com/radiichina.com/wp-content/uploads/2018/01/CES-2018-stats.jpg?resize=630%2C345&ssl=1">
 
-<div class="atlas-chart" data-id="r11-_CoQG" data-width="640" data-height="449"><img src="https://www.theatlas.com/i/atlas_r11-_CoQG.png" style="max-width: 100%;"></div><script 
+
+
+<div class="atlas-chart" data-id="r11-_CoQG" data-width="640" data-height="449"><img src="https://www.theatlas.com/i/atlas_r11-_CoQG.png" style="max-width: 100%;"></div>
+
+
+
 
 [I'm an inline-style link](https://bl.ocks.org/KunLIU2018/raw/b8c482f58b8d98bd5d59a86101b7dc7e/625a08563a24a42605647f9c1521e94dfd070da1/)
 
 
 ### Jekyll Themes 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KunLIU2018/KunLIU2018.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
