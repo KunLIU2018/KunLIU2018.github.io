@@ -75,6 +75,8 @@ Customers can ask the sound bar to launch video even when the TV is turned off. 
 
 <img src= "https://i0.wp.com/radiichina.com/wp-content/uploads/2018/01/CES-2018-stats.jpg?resize=630%2C345&ssl=1">
 
+<img src= "https://bl.ocks.org/KunLIU2018/raw/b8c482f58b8d98bd5d59a86101b7dc7e/625a08563a24a42605647f9c1521e94dfd070da1/">
+
 
 
 ### Jekyll Themes
