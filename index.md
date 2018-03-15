@@ -9,7 +9,7 @@ With Chinese exhibitors second only to the United States' roughly 1,600 companie
 According to an earlier report by China Daily, Chinese participants are much more confident and much better at communication than before, said Joana Wei, an investor based in Palo Alto, California.
 Now let's catch some of their glittering moments at the event.
 
-## the history-breaking figures
+### the history-breaking figures
 Chinese technology companies were in the limelight at this year’s Consumer Electronics Show in Las Vegas as more than 1,500 companies put their gadgets and innovations in the spotlight.
 With Chinese exhibitors second only to the United States' roughly 1,600 companies at the CES, their new cooperations, products, and technology displays also came to the fore.
 According to an earlier report by China Daily, Chinese participants are much more confident and much better at communication than before, said Joana Wei, an investor based in Palo Alto, California.
@@ -53,17 +53,6 @@ Hugo Barra, vice-president of VR at Facebook, said at the CES, "Oculus and Xiaom
 TCL unveiled a smart sound bar as a highlight of its lineup. The TCL Roku Smart can control Roku devices through Roku's voice assistant.
 Customers can ask the sound bar to launch video even when the TV is turned off. The sound bar is expected to be available in late 2018.
 
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
