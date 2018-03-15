@@ -75,12 +75,12 @@ Customers can ask the sound bar to launch video even when the TV is turned off. 
 
 <img src= "https://i0.wp.com/radiichina.com/wp-content/uploads/2018/01/CES-2018-stats.jpg?resize=630%2C345&ssl=1">
 
-<img src= "https://bl.ocks.org/KunLIU2018/raw/b8c482f58b8d98bd5d59a86101b7dc7e/625a08563a24a42605647f9c1521e94dfd070da1/">
+<div class="atlas-chart" data-id="r11-_CoQG" data-width="640" data-height="449"><img src="https://www.theatlas.com/i/atlas_r11-_CoQG.png" style="max-width: 100%;"></div><script src="https://www.theatlas.com/javascripts/atlas.js"></script>
 
 [I'm an inline-style link](https://bl.ocks.org/KunLIU2018/raw/b8c482f58b8d98bd5d59a86101b7dc7e/625a08563a24a42605647f9c1521e94dfd070da1/)
 
 
-### Jekyll Themes
+### Jekyll Themes 
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KunLIU2018/KunLIU2018.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
