@@ -31,7 +31,7 @@ Alibaba Group Holding Limited (Chinese: 阿里巴巴集团控股有限公司) is
 At CES this year, the online retail giant Alibaba set up a major display area and showcased its payment service - Alipay, which helps US companies to reach many Chinese tourists coming to the US each year.
 
 ### Huawei
-
+<img src= "https://www.investireoggi.it/tech/wp-content/uploads/sites/14/2016/11/huawei-logo-630x354-630x342.jpg">
 Huawei Technologies Co. Ltd. (Chinese: 华为) is a Chinese multinational networking, telecommunications equipment, and services company headquartered in Shenzhen, Guangdong. It is the largest telecommunications equipment manufacturer in the world, having overtaken Ericsson in 2012.  In 2017, Huawei became 83th of Fortune 500 in Fortune Magazine.
 "China wants to be the leader, not a follower in 5G," Richard Yu, CEO of Huawei's consumer products division, said in a keynote address.
 
@@ -77,6 +77,7 @@ Customers can ask the sound bar to launch video even when the TV is turned off. 
 
 <img src= "https://bl.ocks.org/KunLIU2018/raw/b8c482f58b8d98bd5d59a86101b7dc7e/625a08563a24a42605647f9c1521e94dfd070da1/">
 
+[I'm an inline-style link](https://bl.ocks.org/KunLIU2018/raw/b8c482f58b8d98bd5d59a86101b7dc7e/625a08563a24a42605647f9c1521e94dfd070da1/)
 
 
 ### Jekyll Themes
