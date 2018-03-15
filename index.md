@@ -24,6 +24,8 @@ At the same time, Baidu Inc also announced its cooperation with Access Services,
 
 ### ALIBABA
 
+<img src= "http://www.nextportchina.com/wp-content/uploads/2017/09/alipay-infographcis.png">
+
 Alibaba Group Holding Limited (Chinese: 阿里巴巴集团控股有限公司) is a Chinese multinational e-commerce, retail, Internet, AI and technology conglomerate founded in 1999 that provides consumer-to-consumer, business-to-consumer and business-to-business sales services via web portals, as well as electronic payment services, shopping search engines and cloud computing services. It owns and operates a diverse array of businesses around the world in numerous sectors and is named as one of the world's most admired companies by Fortune.
 
 At CES this year, the online retail giant Alibaba set up a major display area and showcased its payment service - Alipay, which helps US companies to reach many Chinese tourists coming to the US each year.
@@ -70,6 +72,10 @@ Customers can ask the sound bar to launch video even when the TV is turned off. 
 
 
 ## the Geo Distribution of the high-tech
+
+<img src= "https://i0.wp.com/radiichina.com/wp-content/uploads/2018/01/CES-2018-stats.jpg?resize=630%2C345&ssl=1">
+
+
 
 ### Jekyll Themes
 
