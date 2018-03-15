@@ -1,19 +1,14 @@
 ## Welcome to the CES 2018 briefing for the Chinese companies 
 <img src= "https://sampi.co/wp-content/uploads/2014/04/china_tech.jpg"> 
 
-This wiki page is dedicated to introduce the Consumer Electronics Show (CES) 2018 in Las vegas. Since 2015, the chinese technology companies start to play an important role on this yearly exhibitions and catch the attention of the attendance from all over the world. So this wiki page will approach the wiki pages from with a study focus on the chinese companies.
+This wiki page is dedicated to introduce the Consumer Electronics Show (CES) 2018 in Las vegas. Since 2015, the chinese technology companies start to play an important role on this yearly exhibitions and catch the attention of the attendance from all over the world. So this wiki page will approach the CES with a study focus on the chinese companies.
 
+### the history-breaking figures
+Chinese technology companies were in the limelight at this year’s Consumer Electronics Show in Las Vegas as more than 1,500 companies put their gadgets and innovations in the spotlight.
+With Chinese exhibitors second only to the United States' roughly 1,600 companies at the CES, their new cooperations, products, and technology displays also came to the fore.
+According to an earlier report by China Daily, Chinese participants are much more confident and much better at communication than before, said Joana Wei, an investor based in Palo Alto, California.
+Now let's catch some of their glittering moments at the event.
 
-You can use the [editor on GitHub](https://github.com/KunLIU2018/KunLIU2018.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## Header 2
