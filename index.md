@@ -1,5 +1,7 @@
 ## Welcome to the CES 2018 briefing for the Chinese companies 
-<img src= "https://sampi.co/wp-content/uploads/2014/04/china_tech.jpg"> 
+
+<img src= "https://pic.36krcnd.com/201801/12062805/p4s80v93b03t0pec!1200">
+
 
 This wiki page is dedicated to introduce the Consumer Electronics Show (CES) 2018 in Las vegas. Since 2015, the chinese technology companies start to play an important role on this yearly exhibitions and catch the attention of the attendance from all over the world. So this wiki page will approach the CES with a study focus on the chinese companies.
 
@@ -18,37 +20,50 @@ The collaboration is based on the new Nvidia Drive Xavier, ZF’s new ProAI car 
 At the same time, Baidu Inc also announced its cooperation with Access Services, a US-based public paratransit services provider to launch a self-driving pilot project in Los Angeles by the end of this year, while the company and Singapore technology conglomerate Asia Mobility Industries unveiled a joint venture and a newly established $200 million fund to promote the commercialization of Baidu's autonomous driving technologies in Southeast Asia.
 
 ### ALIBABA
+
 Alibaba Group Holding Limited (Chinese: 阿里巴巴集团控股有限公司) is a Chinese multinational e-commerce, retail, Internet, AI and technology conglomerate founded in 1999 that provides consumer-to-consumer, business-to-consumer and business-to-business sales services via web portals, as well as electronic payment services, shopping search engines and cloud computing services. It owns and operates a diverse array of businesses around the world in numerous sectors and is named as one of the world's most admired companies by Fortune.
 
 At CES this year, the online retail giant Alibaba set up a major display area and showcased its payment service - Alipay, which helps US companies to reach many Chinese tourists coming to the US each year.
 
 ### Huawei
 
+Huawei Technologies Co. Ltd. (Chinese: 华为) is a Chinese multinational networking, telecommunications equipment, and services company headquartered in Shenzhen, Guangdong. It is the largest telecommunications equipment manufacturer in the world, having overtaken Ericsson in 2012.  In 2017, Huawei became 83th of Fortune 500 in Fortune Magazine.
 "China wants to be the leader, not a follower in 5G," Richard Yu, CEO of Huawei's consumer products division, said in a keynote address.
+
 "We were behind in 3G development, but we caught up with others in 4G and will be the global leader of the ICT (information and communications technology) industry in the era of 5G."
 For Huawei, 5G innovations made it into the keynote speech that launched the Mate 10 Pro smartphone, which features the world's fastest "4.5G or pre-5G experience".
 5G is the next frontier in mobile networks and wireless communications, and will feature faster data transfer.
 
 ### ZTE
 
-A staff member shows a dual-screen phone ZTE AXON M of China at Consumer Electronics Show (CES) in Las Vegas, the United States, Jan 10, 2018. [Photo/Xinhua]
+ZTE Corporation, commonly shortened to ZTE （Chinese: 中兴）, is a Chinese multinational telecommunications equipment and systems company headquartered in Shenzhen, Guangdong.
+
+A staff member shows a dual-screen phone ZTE AXON M of China at Consumer Electronics Show (CES) in Las Vegas, the United States, Jan 10, 2018.
 ZTE took its 5G Future Tunnel along to the expo to show visitors how the technology will change people's lives.
 "China has attached great importance to 5G development," said Cheng Lixin, CEO of ZTE Mobile Devices. "We are speeding up our development this year, accelerating steps to gain a lead in the race toward commercializing the next-generation communication technology."
 
 ### Byton
 
-Byton CEO Carsten Breitfeld speaks during the announcement of a smart intuitive vehicle concept car, the CES, in Las Vegas on Jan 7, 2018.[Photo/VCG]
+Byton  (拜腾)announced Monday that it has partnered with self-driving vehicle technology startup Aurora. The buzzy startup, led some of the best minds in self-driving cars, will work on bringing Level 4 autonomous vehicle capabilities into Byton vehicles. The two companies will conduct a pilot deployment of Aurora's L4 autonomous driving systems on Byton vehicles in the "next two years." The pilot will be in California, Aurora CEO Chris Urmson said. Urmson previously led the Google self-driving project before it spun out to become Waymo, a business under parent Alphabet.
+
+Byton CEO Carsten Breitfeld speaks during the announcement of a smart intuitive vehicle concept car, the CES, in Las Vegas on Jan 7, 2018。
 This year's star is Byton, an electric car unveiled at CES known as China's Tesla. It is expected to be mass produced and sell at $45,000, making it a real competitor to Tesla.
 
 ### Xiaomi
+Xiaomi Inc. (Chinese: 小米 ), is a Chinese electronics and software company headquartered in Beijing. Xiaomi designs, develops, and sells smartphones, mobile apps, laptops and related consumer electronics.
 
 China's smartphone vendor Xiaomi Corp joined hands with Oculus, the virtual reality or VR equipment maker backed by Facebook Inc, to provide a VR product with both high quality and affordable prices.
 Hugo Barra, vice-president of VR at Facebook, said at the CES, "Oculus and Xiaomi are jointly announcing a new standalone VR product that is designed specifically for the Chinese market, which will be known as Mi VR."
 
 ### TCL
 
+TCL Corporation (Chinese: TCL集团) is a Chinese multinational electronics company headquartered in Huizhou, Guangdong Province. It designs, develops, manufactures and sells products including television sets, mobile phones, air conditioners, washing machines, refrigerators and small electrical appliances. In 2010 it was the world's 25th-largest consumer electronics producer. In 2013, it was third-largest television producer by market share.
+
 TCL unveiled a smart sound bar as a highlight of its lineup. The TCL Roku Smart can control Roku devices through Roku's voice assistant.
+
 Customers can ask the sound bar to launch video even when the TV is turned off. The sound bar is expected to be available in late 2018.
+
+<img src= "https://sampi.co/wp-content/uploads/2014/04/china_tech.jpg"> 
 
 
 ### Jekyll Themes
