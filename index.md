@@ -66,6 +66,8 @@ Customers can ask the sound bar to launch video even when the TV is turned off. 
 <img src= "https://sampi.co/wp-content/uploads/2014/04/china_tech.jpg"> 
 
 
+## the Geo Distribution of the high-tech
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KunLIU2018/KunLIU2018.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
