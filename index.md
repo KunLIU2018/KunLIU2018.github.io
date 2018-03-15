@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the CES 2018 briefing for the Chinese companies 
 
 You can use the [editor on GitHub](https://github.com/KunLIU2018/KunLIU2018.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
