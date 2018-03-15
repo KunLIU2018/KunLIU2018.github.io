@@ -11,7 +11,11 @@ Now let's catch some of their glittering moments at the event.
 
 
 # Header 1
-## Header 2
+## the history-breaking figures
+Chinese technology companies were in the limelight at this year’s Consumer Electronics Show in Las Vegas as more than 1,500 companies put their gadgets and innovations in the spotlight.
+With Chinese exhibitors second only to the United States' roughly 1,600 companies at the CES, their new cooperations, products, and technology displays also came to the fore.
+According to an earlier report by China Daily, Chinese participants are much more confident and much better at communication than before, said Joana Wei, an investor based in Palo Alto, California.
+Now let's catch some of their glittering moments at the event.
 ### Header 3
 
 - Bulleted
