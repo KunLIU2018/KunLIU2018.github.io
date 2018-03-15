@@ -1,4 +1,8 @@
 ## Welcome to the CES 2018 briefing for the Chinese companies 
+<img src= "https://sampi.co/wp-content/uploads/2014/04/china_tech.jpg"> 
+
+This wiki page is dedicated to introduce the Consumer Electronics Show (CES) 2018 in Las vegas. Since 2015, the chinese technology companies start to play an important role on this yearly exhibitions and catch the attention of the attendance from all over the world. So this wiki page will approach the wiki pages from with a study focus on the chinese companies.
+
 
 You can use the [editor on GitHub](https://github.com/KunLIU2018/KunLIU2018.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
