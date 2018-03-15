@@ -13,6 +13,8 @@ Now let's catch some of their glittering moments at the event.
 
 ### *BAIDU*
 
+<img src= "https://www10.edacafe.com/video/get_image.php?link_id=526318&type=medium">
+
 Baidu, Inc. (Chinese: 百度), incorporated on 18 January 2000, is a Chinese multinational technology company specializing in Internet-related services and products, and artificial intelligence, headquartered at the Baidu Campus in Beijing's Haidian District. It is one of the largest internet companies.The holding company of the group was incorporated in the Cayman Islands. Baidu was established in 2000 by Robin Li and Eric Xu. Baidu is currently ranked 4th overall in the Alexa Internet Rankings
 
 Internet giant Baidu Inc, the Beijing-based answer to Google, will join forces with US-based chipmaker Nvidia Corp and German automotive supplier ZF to create a production-ready AI autonomous vehicle system designed for China, said a news release on Jan 7.
