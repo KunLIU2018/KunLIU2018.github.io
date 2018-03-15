@@ -9,7 +9,8 @@ With Chinese exhibitors second only to the United States' roughly 1,600 companie
 According to an earlier report by China Daily, Chinese participants are much more confident and much better at communication than before, said Joana Wei, an investor based in Palo Alto, California.
 Now let's catch some of their glittering moments at the event.
 
-### BAIDU
+### *BAIDU*
+
 Internet giant Baidu Inc, the Beijing-based answer to Google, will join forces with US-based chipmaker Nvidia Corp and German automotive supplier ZF to create a production-ready AI autonomous vehicle system designed for China, said a news release on Jan 7.
 The collaboration is based on the new Nvidia Drive Xavier, ZF’s new ProAI car computer and Baidu’s open autonomous driving platform called Apollo, said Jensen Huang, founder and CEO of Nvidia, at the opening press conference of the CES 2018.
 At the same time, Baidu Inc also announced its cooperation with Access Services, a US-based public paratransit services provider to launch a self-driving pilot project in Los Angeles by the end of this year, while the company and Singapore technology conglomerate Asia Mobility Industries unveiled a joint venture and a newly established $200 million fund to promote the commercialization of Baidu's autonomous driving technologies in Southeast Asia.
