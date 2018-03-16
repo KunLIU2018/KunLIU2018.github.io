@@ -2,7 +2,6 @@
 
 <img src= "https://pic.36krcnd.com/201801/12062805/p4s80v93b03t0pec!1200">
 
-
 This wiki page is dedicated to introduce the Consumer Electronics Show (CES) 2018 in Las vegas. Since 2015, the chinese technology companies start to play an important role on this yearly exhibition and catch the attention of the attendance from all over the world. So this wiki page will help the view have a closer approach to the CES 2018 with a study focus on the chinese companies. It mainly has 3 parts on this web: *the introduction to the key chinese techonlogy companies*, *the geo-distribution of the companies (normal graphe and D3 visalisation)*, and *the analysis of the strong technology trend in china*. 
 
 ## Part one : the history-breaking figures and innovations in china 
@@ -116,13 +115,22 @@ We can find out that Guangdong, Shanghai, and Beijing are top 3 areas where the 
 
 How has the tide turned in China’s favor? There are three main factors fuelling the growth of Chinese tech according to the Forbs Asia. 
 
-Firstly, economic growth is driving the expansion of internet companies. China’s internet market grew by 6.2% last year to 731 million people, with 95.1% accessing the web via their mobile phones, according to data provided by the China Internet Network Information Center. And a growing middle class will lead to increased demand for innovative products and services
+Firstly, economic growth is driving the expansion of internet companies. 
 
-Secondly, a strong supply of talent into the labor market has also helped the country’s tech sector. In recent years there's been an influx of highly trained people into the science and technology sector. As a result, a large and sophisticated labor force has emerged to fulfill demand for future technology. With such a huge population behind it, China’s push for new technology will surely benefit.
+China’s internet market grew by 6.2% last year to 731 million people, with 95.1% accessing the web via their mobile phones, according to data provided by the China Internet Network Information Center. And a growing middle class will lead to increased demand for innovative products and services
 
-Thirdly, it's impossible to overlook the government’s strong support. China’s central government has created a stable and predictable regime, with a supportive regulatory policy. Significant government investment has also given China’s tech sector a platform to flourish. Look no further than Beijing’s support for the semiconductor industry: Computer chips are a central part of the government’s industrial policy, and China has pledged to invest $150 billion into the domestic semiconductor industry by 2025. These huge subsidies will surely have a significant impact and see China supplant the U.S. as the dominant player in semiconductor innovation.
+Secondly, a strong supply of talent into the labor market has also helped the country’s tech sector. 
+
+<img src= "https://assets.weforum.org/editor/PSSvl1XRKP4L2tFL2PNtPufC-vkFfy8j6lbozV_pisg.JPG">
+
+In recent years there's been an influx of highly trained people into the science and technology sector. As a result, a large and sophisticated labor force has emerged to fulfill demand for future technology. With such a huge population behind it, China’s push for new technology will surely benefit.
+
+Thirdly, it's impossible to overlook the government’s strong support. 
 
 <img src= "https://sampi.co/wp-content/uploads/2014/04/china_tech.jpg"> 
+
+China’s central government has created a stable and predictable regime, with a supportive regulatory policy. Significant government investment has also given China’s tech sector a platform to flourish. Look no further than Beijing’s support for the semiconductor industry: Computer chips are a central part of the government’s industrial policy, and China has pledged to invest $150 billion into the domestic semiconductor industry by 2025. These huge subsidies will surely have a significant impact and see China supplant the U.S. as the dominant player in semiconductor innovation.
+
 
 ### Jekyll Themes 
 
