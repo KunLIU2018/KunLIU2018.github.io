@@ -118,6 +118,7 @@ How has the tide turned in China’s favor? There are three main factors fuellin
 
 - Firstly, economic growth is driving the expansion of internet companies. 
 
+<img src= "GDPofallcountries.jpg"> 
 China’s internet market grew by 6.2% last year to 731 million people, with 95.1% accessing the web via their mobile phones, according to data provided by the China Internet Network Information Center. And a growing middle class will lead to increased demand for innovative products and services
 
 - Secondly, a strong supply of talent into the labor market has also helped the country’s tech sector. 
