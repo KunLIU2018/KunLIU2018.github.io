@@ -79,7 +79,10 @@ Customers can ask the sound bar to launch video even when the TV is turned off. 
 <img src= "https://sampi.co/wp-content/uploads/2014/04/china_tech.jpg"> 
 
 
+
 ## the Geo Distribution of the high-tech in china 
+As many as 1,551 Chinese companies registered to display their products and software applications in Las Vegas this week, out of a record turnout of 4,500 exhibitors, according to the Consumer Technology Association, which organised the show.
+The biggest bloc of the Chinese companies - 482 of them - were from Shenzhen, the test bed of China’s 1978 experiment with capitalism just north of Hong Kong, and a claimant to the title as China’s Silicon Valley, according to the CTA’s data.
 
 <img src= "https://i0.wp.com/radiichina.com/wp-content/uploads/2018/01/CES-2018-stats.jpg?resize=630%2C345&ssl=1">
 
