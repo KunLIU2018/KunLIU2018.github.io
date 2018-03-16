@@ -11,7 +11,7 @@ With Chinese exhibitors second only to the United States' roughly 1,600 companie
 According to an earlier report by China Daily, Chinese participants are much more confident and much better at communication than before, said Joana Wei, an investor based in Palo Alto, California.
 Now let's catch some of their glittering moments at the event.
 
-### *BAIDU*
+### *BAIDU* : Apollo, self - driving car for future 
 
 <img src= "https://www10.edacafe.com/video/get_image.php?link_id=526318&type=medium">
 
@@ -22,7 +22,7 @@ Internet giant Baidu Inc, the Beijing-based answer to Google, will join forces w
 The collaboration is based on the new Nvidia Drive Xavier, ZF’s new ProAI car computer and Baidu’s open autonomous driving platform called Apollo, said Jensen Huang, founder and CEO of Nvidia, at the opening press conference of the CES 2018.
 At the same time, Baidu Inc also announced its cooperation with Access Services, a US-based public paratransit services provider to launch a self-driving pilot project in Los Angeles by the end of this year, while the company and Singapore technology conglomerate Asia Mobility Industries unveiled a joint venture and a newly established $200 million fund to promote the commercialization of Baidu's autonomous driving technologies in Southeast Asia.
 
-### ALIBABA
+### ALIBABA : Paying with Alipay on your phone abroad, duty free is burden free
 
 <img src= "http://www.nextportchina.com/wp-content/uploads/2017/09/alipay-infographcis.png">
 
@@ -30,7 +30,7 @@ Alibaba Group Holding Limited (Chinese: 阿里巴巴集团控股有限公司) is
 
 At CES this year, the online retail giant Alibaba set up a major display area and showcased its payment service - Alipay, which helps US companies to reach many Chinese tourists coming to the US each year.
 
-### Huawei
+### Huawei  : 5G is just at your sight 
 
 <img src= "https://www.investireoggi.it/tech/wp-content/uploads/sites/14/2016/11/huawei-logo-630x354-630x342.jpg">
 
@@ -41,7 +41,7 @@ Huawei Technologies Co. Ltd. (Chinese: 华为) is a Chinese multinational networ
 For Huawei, 5G innovations made it into the keynote speech that launched the Mate 10 Pro smartphone, which features the world's fastest "4.5G or pre-5G experience".
 5G is the next frontier in mobile networks and wireless communications, and will feature faster data transfer.
 
-### ZTE
+### ZTE : screen, one is not enough! 
 
 <img src= "https://cms-bucket.nosdn.127.net/catchpic/5/50/50b153d554fde9cf1ab1aab0bf343968.jpg">
 
@@ -51,7 +51,7 @@ A staff member shows a dual-screen phone ZTE AXON M of China at Consumer Electro
 ZTE took its 5G Future Tunnel along to the expo to show visitors how the technology will change people's lives.
 "China has attached great importance to 5G development," said Cheng Lixin, CEO of ZTE Mobile Devices. "We are speeding up our development this year, accelerating steps to gain a lead in the race toward commercializing the next-generation communication technology."
 
-### Byton
+### Byton : Chinese Tesla is on rising
 <img src= "https://icdn2.digitaltrends.com/image/byton-electric-intelligent-suv-makes-global-debut-at-ces-1.jpg"> 
 
 Byton  (拜腾) announced Monday that it has partnered with self-driving vehicle technology startup Aurora. The buzzy startup, led some of the best minds in self-driving cars, will work on bringing Level 4 autonomous vehicle capabilities into Byton vehicles. The two companies will conduct a pilot deployment of Aurora's L4 autonomous driving systems on Byton vehicles in the "next two years." The pilot will be in California, Aurora CEO Chris Urmson said. Urmson previously led the Google self-driving project before it spun out to become Waymo, a business under parent Alphabet.
@@ -59,7 +59,7 @@ Byton  (拜腾) announced Monday that it has partnered with self-driving vehicle
 Byton CEO Carsten Breitfeld speaks during the announcement of a smart intuitive vehicle concept car, the CES, in Las Vegas on Jan 7, 2018。
 This year's star is Byton, an electric car unveiled at CES known as China's Tesla. It is expected to be mass produced and sell at $45,000, making it a real competitor to Tesla.
 
-### Xiaomi
+### Xiaomi : Enjoy VR anywhere with your phone
 
 <img src= "https://cdn.vox-cdn.com/uploads/chorus_asset/file/9999641/DSC00054.jpg"> 
 
@@ -68,7 +68,8 @@ Xiaomi Inc. (Chinese: 小米 ), is a Chinese electronics and software company he
 China's smartphone vendor Xiaomi Corp joined hands with Oculus, the virtual reality or VR equipment maker backed by Facebook Inc, to provide a VR product with both high quality and affordable prices.
 Hugo Barra, vice-president of VR at Facebook, said at the CES, "Oculus and Xiaomi are jointly announcing a new standalone VR product that is designed specifically for the Chinese market, which will be known as Mi VR."
 
-### TCL
+### TCL : 8k Tv screen, real than ever
+
 <img src= "https://i.ytimg.com/vi/OeIFzIz3-ew/maxresdefault.jpg"> 
 TCL Corporation (Chinese: TCL集团) is a Chinese multinational electronics company headquartered in Huizhou, Guangdong Province. It designs, develops, manufactures and sells products including television sets, mobile phones, air conditioners, washing machines, refrigerators and small electrical appliances. In 2010 it was the world's 25th-largest consumer electronics producer. In 2013, it was third-largest television producer by market share.
 
@@ -93,7 +94,13 @@ The biggest bloc of the Chinese companies - 482 of them - were from Shenzhen, th
 
 
 
-[I'm an inline-style link](https://bl.ocks.org/KunLIU2018/raw/b8c482f58b8d98bd5d59a86101b7dc7e/625a08563a24a42605647f9c1521e94dfd070da1/)
+[The d3 Visuealization for the technology distribution]
+(https://bl.ocks.org/KunLIU2018/raw/b8c482f58b8d98bd5d59a86101b7dc7e/625a08563a24a42605647f9c1521e94dfd070da1/)
+
+
+
+
+<img src= "https://cdn4.i-scmp.com/sites/default/files/images/methode/2018/01/10/81bcabcc-f524-11e7-8693-80d4e18fb3a2_image_hires_081734.JPG"> 
 
 
 ### Jekyll Themes 
