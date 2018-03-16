@@ -100,9 +100,11 @@ The biggest bloc of the Chinese companies - 482 of them - were from Shenzhen, th
 
 
 
-<img src= "https://cdn4.i-scmp.com/sites/default/files/images/methode/2018/01/10/81bcabcc-f524-11e7-8693-80d4e18fb3a2_image_hires_081734.JPG"> 
+
 
 ## Why the tech-wave is spreading in china? 
+<img src= "https://cdn4.i-scmp.com/sites/default/files/images/methode/2018/01/10/81bcabcc-f524-11e7-8693-80d4e18fb3a2_image_hires_081734.JPG"> 
+
 ### Jekyll Themes 
 
 
