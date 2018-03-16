@@ -94,10 +94,13 @@ TCL Corporation (Chinese: TCL集团) is a Chinese multinational electronics comp
 TCL unveiled a smart sound bar as a highlight of its lineup. The TCL Roku Smart can control Roku devices through Roku's voice assistant. Customers can ask the sound bar to launch video even when the TV is turned off. The sound bar is expected to be available in late 2018. Down at the budget end of the market, TCL has been making a name for itself for some time now (with the help of Roku), and the 6-Series TVs it unveiled at CES 2018 look to be continuing the TCL tradition of fab-looking panels at very reasonable prices. Available in 55 or 66 inches, the sets come with built-in support for Dolby Vision, as well as some smart tech for improving contrast balance and color gamut. There's also a brushed metal finish, putting these models one step above the usual TCL fare.
 
 ## Part two:the Geo Distribution of the high-tech in china 
+
+<img src= "https://i0.wp.com/radiichina.com/wp-content/uploads/2018/01/CES-2018-stats.jpg?resize=630%2C345&ssl=1">
+
 As many as 1,551 Chinese companies registered to display their products and software applications in Las Vegas this week, out of a record turnout of 4,500 exhibitors, according to the Consumer Technology Association, which organised the show.
 The biggest bloc of the Chinese companies - 482 of them - were from Shenzhen, the test bed of China’s 1978 experiment with capitalism just north of Hong Kong, and a claimant to the title as China’s Silicon Valley, according to the CTA’s data.
 
-<img src= "https://i0.wp.com/radiichina.com/wp-content/uploads/2018/01/CES-2018-stats.jpg?resize=630%2C345&ssl=1">
+
 
 
 
