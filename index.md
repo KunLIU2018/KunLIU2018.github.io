@@ -100,26 +100,27 @@ TCL unveiled a smart sound bar as a highlight of its lineup. The TCL Roku Smart 
 As many as 1,551 Chinese companies registered to display their products and software applications in Las Vegas this week, out of a record turnout of 4,500 exhibitors, according to the Consumer Technology Association, which organised the show.
 The biggest bloc of the Chinese companies - 482 of them - were from Shenzhen, the test bed of China’s 1978 experiment with capitalism just north of Hong Kong, and a claimant to the title as China’s Silicon Valley, according to the CTA’s data.
 
-
-
-
-
+Here are the more details about the distributions of the companies that declaired their city labels 
 <div class="atlas-chart" data-id="r11-_CoQG" data-width="640" data-height="449"><img src="https://www.theatlas.com/i/atlas_r11-_CoQG.png" style="max-width: 100%;"></div>
 
+With the data, we can have visualise the chinese cities on the china map and show the dencity of technology company distribution. 
 
+We can find out that Guangdong, Shanghai, and Beijing are top 3 areas where the technology companies are largely located, while we also find the imbalance in the east and the west: there are less companies in the west part of china than the east coast area.  
 
-
-[The d3 Visuealization for the technology distribution]
 (https://bl.ocks.org/KunLIU2018/raw/b8c482f58b8d98bd5d59a86101b7dc7e/625a08563a24a42605647f9c1521e94dfd070da1/)
 
 
-
-
-
-
 ## Part three :Why the tech-wave is spreading in china? 
+
 <img src= "https://cdn4.i-scmp.com/sites/default/files/images/methode/2018/01/10/81bcabcc-f524-11e7-8693-80d4e18fb3a2_image_hires_081734.JPG"> 
 
+How has the tide turned in China’s favor? There are three main factors fuelling the growth of Chinese tech according to the Forbs Asia. 
+
+Firstly, economic growth is driving the expansion of internet companies. China’s internet market grew by 6.2% last year to 731 million people, with 95.1% accessing the web via their mobile phones, according to data provided by the China Internet Network Information Center. And a growing middle class will lead to increased demand for innovative products and services
+
+Secondly, a strong supply of talent into the labor market has also helped the country’s tech sector. In recent years there's been an influx of highly trained people into the science and technology sector. As a result, a large and sophisticated labor force has emerged to fulfill demand for future technology. With such a huge population behind it, China’s push for new technology will surely benefit.
+
+Thirdly, it's impossible to overlook the government’s strong support. China’s central government has created a stable and predictable regime, with a supportive regulatory policy. Significant government investment has also given China’s tech sector a platform to flourish. Look no further than Beijing’s support for the semiconductor industry: Computer chips are a central part of the government’s industrial policy, and China has pledged to invest $150 billion into the domestic semiconductor industry by 2025. These huge subsidies will surely have a significant impact and see China supplant the U.S. as the dominant player in semiconductor innovation.
 
 <img src= "https://sampi.co/wp-content/uploads/2014/04/china_tech.jpg"> 
 
