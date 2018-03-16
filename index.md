@@ -51,6 +51,7 @@ The CEO of Huawei's consumer products division is Richard Yu. He reveal the ambi
 For Huawei, 5G innovations made it into the keynote speech that launched the Mate 10 Pro smartphone, which features the world's fastest "4.5G or pre-5G experience". 5G is the next frontier in mobile networks and wireless communications, and will feature faster data transfer. 
 
 ### ZTE : screen, one is not enough! 
+<img src= "https://imagekit.androidphoria.com/wp-content/uploads/ZTE-CES.jpg">
 
 <img src= "https://cms-bucket.nosdn.127.net/catchpic/5/50/50b153d554fde9cf1ab1aab0bf343968.jpg">
 
