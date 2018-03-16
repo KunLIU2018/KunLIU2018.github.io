@@ -55,10 +55,9 @@ For Huawei, 5G innovations made it into the keynote speech that launched the Mat
 
 ZTE Corporation, commonly shortened to ZTE （Chinese: 中兴）, is a Chinese multinational telecommunications equipment and systems company headquartered in Shenzhen, Guangdong.
 
+on Jan 10, 2018, a staff member from ZTE showed their dual-screen phone ZTE AXON M of China at Consumer Electronics Show (CES) in Las Vegas, the United States and it went off as a heat topic. 
 
 <img src= "https://cms-bucket.nosdn.127.net/catchpic/5/50/50b153d554fde9cf1ab1aab0bf343968.jpg">
-
-on Jan 10, 2018, a staff member from ZTE showed their dual-screen phone ZTE AXON M of China at Consumer Electronics Show (CES) in Las Vegas, the United States and it went off as a heat topic. 
 
 We've seen a lot of really cool new trends in the mobile industry recently, including a move away from bezels, as well as a greater widespread interest in augmented reality (AR) and 3D-sensing cameras. But perhaps the most daring new product at CES 2018 was ZTE's Axon M smartphone.
 
