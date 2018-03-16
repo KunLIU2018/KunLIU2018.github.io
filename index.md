@@ -134,9 +134,5 @@ In recent years there's been an influx of highly trained people into the science
 China’s central government has created a stable and predictable regime, with a supportive regulatory policy. Significant government investment has also given China’s tech sector a platform to flourish. Look no further than Beijing’s support for the semiconductor industry: Computer chips are a central part of the government’s industrial policy, and China has pledged to invest $150 billion into the domestic semiconductor industry by 2025. These huge subsidies will surely have a significant impact and see China supplant the U.S. as the dominant player in semiconductor innovation.
 
 
-### Jekyll Themes 
 
-
-
-### Support or Contact
 
