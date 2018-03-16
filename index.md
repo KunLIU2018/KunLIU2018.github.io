@@ -1,8 +1,5 @@
 ## Welcome to the CES 2018 briefing for the Chinese companies 
 
-<img src= "KunLIU2018.github.io/chinatechnologydistribution1.jpg">
-
-
 <img src= "https://pic.36krcnd.com/201801/12062805/p4s80v93b03t0pec!1200">
 
 This wiki page is dedicated to introduce the Consumer Electronics Show (CES) 2018 in Las vegas. Since 2015, the chinese technology companies start to play an important role on this yearly exhibition and catch the attention of the attendance from all over the world. So this wiki page will help the view have a closer approach to the CES 2018 with a study focus on the chinese companies. It mainly has 3 parts on this web: *the introduction to the key chinese techonlogy companies*, *the geo-distribution of the companies (normal graphe and D3 visalisation)*, and *the analysis of the strong technology trend in china*. 
@@ -109,7 +106,8 @@ With the data, we can have visualise the chinese cities on the china map and sho
 
 We can find out that Guangdong, Shanghai, and Beijing are top 3 areas where the technology companies are largely located, while we also find the imbalance in the east and the west: there are less companies in the west part of china than the east coast area.  
 
-(https://bl.ocks.org/KunLIU2018/raw/b8c482f58b8d98bd5d59a86101b7dc7e/625a08563a24a42605647f9c1521e94dfd070da1/)
+<img src= "chinatechnologydistribution1.jpg">
+<img src= "chinatechnologydistribution2.jpg">
 
 
 ## Part three :Why the tech-wave is spreading in china? 
