@@ -53,13 +53,16 @@ For Huawei, 5G innovations made it into the keynote speech that launched the Mat
 ### ZTE : screen, one is not enough! 
 <img src= "https://imagekit.androidphoria.com/wp-content/uploads/ZTE-CES.jpg">
 
-<img src= "https://cms-bucket.nosdn.127.net/catchpic/5/50/50b153d554fde9cf1ab1aab0bf343968.jpg">
-
 ZTE Corporation, commonly shortened to ZTE （Chinese: 中兴）, is a Chinese multinational telecommunications equipment and systems company headquartered in Shenzhen, Guangdong.
 
-A staff member shows a dual-screen phone ZTE AXON M of China at Consumer Electronics Show (CES) in Las Vegas, the United States, Jan 10, 2018.
-ZTE took its 5G Future Tunnel along to the expo to show visitors how the technology will change people's lives.
-"China has attached great importance to 5G development," said Cheng Lixin, CEO of ZTE Mobile Devices. "We are speeding up our development this year, accelerating steps to gain a lead in the race toward commercializing the next-generation communication technology."
+
+<img src= "https://cms-bucket.nosdn.127.net/catchpic/5/50/50b153d554fde9cf1ab1aab0bf343968.jpg">
+
+on Jan 10, 2018, a staff member from ZTE showed their dual-screen phone ZTE AXON M of China at Consumer Electronics Show (CES) in Las Vegas, the United States and it went off as a heat topic. 
+
+We've seen a lot of really cool new trends in the mobile industry recently, including a move away from bezels, as well as a greater widespread interest in augmented reality (AR) and 3D-sensing cameras. But perhaps the most daring new product at CES 2018 was ZTE's Axon M smartphone.
+
+Released late last year in an exclusive deal with AT&T, the Axon M is revolutionizing the smartphone market by giving consumers not one, but two screens on their phone. The screens can be used in a variety of ways, including a tent mode that allows viewers to watch the same content on different facing screens. 
 
 ### Byton : Chinese Tesla is on rising
 <img src= "https://icdn2.digitaltrends.com/image/byton-electric-intelligent-suv-makes-global-debut-at-ces-1.jpg"> 
