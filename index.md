@@ -16,31 +16,39 @@ According to an earlier report by China Daily, Chinese participants are much mor
 
 <img src= "https://www10.edacafe.com/video/get_image.php?link_id=526318&type=medium">
 
-Baidu, Inc. (Chinese: 百度), incorporated on 18 January 2000, is a Chinese multinational technology company specializing in Internet-related services and products, and artificial intelligence, headquartered at the Baidu Campus in Beijing's Haidian District. It is one of the largest internet companies.The holding company of the group was incorporated in the Cayman Islands. Baidu was established in 2000 by Robin Li and Eric Xu. Baidu is currently ranked 4th overall in the Alexa Internet Rankings
+Baidu, Inc. (Chinese: 百度), incorporated on 18 January 2000, is a Chinese multinational technology company specializing in Internet-related services and products, and artificial intelligence, headquartered at the Baidu Campus in Beijing's Haidian District. It is one of the largest internet companies.The holding company of the group was incorporated in the Cayman Islands. Baidu was established in 2000 by Robin Li and Eric Xu. Baidu is currently ranked 4th overall in the Alexa Internet Rankings.
 
-Internet giant Baidu Inc, the Beijing-based answer to Google, will join forces with US-based chipmaker Nvidia Corp and German automotive supplier ZF to create a production-ready AI autonomous vehicle system designed for China, said a news release on Jan 7.
+In the CES 2018, it is announced that the internet giant Baidu Inc, the Beijing-based answer to Google, will join forces with US-based chipmaker Nvidia Corp and German automotive supplier ZF to create a production-ready AI autonomous vehicle system designed for China.
  <img src= "https://pic.36krcnd.com/201801/12062807/e6fz44i9rlh1dhcv!1200"> 
-The collaboration is based on the new Nvidia Drive Xavier, ZF’s new ProAI car computer and Baidu’s open autonomous driving platform called Apollo, said Jensen Huang, founder and CEO of Nvidia, at the opening press conference of the CES 2018.
+
+The collaboration is based on the new Nvidia Drive Xavier, ZF’s new ProAI car computer and Baidu’s open autonomous driving platform called Apollo.  The founder and CEO of Nvidia is Jensen Huang. 
+
 At the same time, Baidu Inc also announced its cooperation with Access Services, a US-based public paratransit services provider to launch a self-driving pilot project in Los Angeles by the end of this year, while the company and Singapore technology conglomerate Asia Mobility Industries unveiled a joint venture and a newly established $200 million fund to promote the commercialization of Baidu's autonomous driving technologies in Southeast Asia.
 
 ### ALIBABA : Paying with Alipay on your phone abroad, duty free is burden free
 
 <img src= "http://www.nextportchina.com/wp-content/uploads/2017/09/alipay-infographcis.png">
 
-Alibaba Group Holding Limited (Chinese: 阿里巴巴集团控股有限公司) is a Chinese multinational e-commerce, retail, Internet, AI and technology conglomerate founded in 1999 that provides consumer-to-consumer, business-to-consumer and business-to-business sales services via web portals, as well as electronic payment services, shopping search engines and cloud computing services. It owns and operates a diverse array of businesses around the world in numerous sectors and is named as one of the world's most admired companies by Fortune.
+Alibaba Group Holding Limited (Chinese: 阿里巴巴集团控股有限公司) is a Chinese multinational e-commerce, retail, Internet, AI and technology conglomerate founded in 1999 that provides consumer-to-consumer, business-to-consumer and business-to-business sales services via web portals, as well as electronic payment services, shopping search engines and cloud computing services. 
 
-At CES this year, the online retail giant Alibaba set up a major display area and showcased its payment service - Alipay, which helps US companies to reach many Chinese tourists coming to the US each year.
+It owns and operates a diverse array of businesses around the world in numerous sectors and is named as one of the world's most admired companies by Fortune.
+
+At CES this year, the online retail giant Alibaba set up a major display area and showcased its payment service - Alipay, which helps US and Europe companies to reach many Chinese tourists coming to the abroad each year. With the help the Alipay the Chinese tourists can pay with smartphone by scanning the codes without chaning the currenct no matter which country they travel to. at the same time, the duty free service will automatically turned on and refunded to their associtated bank. This will largely increase the sales in the overseas duty-free shopping stores and attract more and more chinese travellers.This easy one-stand services has big potentials in the future, benifiting both the customers as well as the companies. 
 
 ### Huawei  : 5G is just at your sight 
 
-<img src= "https://www.investireoggi.it/tech/wp-content/uploads/sites/14/2016/11/huawei-logo-630x354-630x342.jpg">
+<img src= "https://telko.id/wp-content/uploads/sites/7/2017/07/Huawei-5G.jpg">
 
 Huawei Technologies Co. Ltd. (Chinese: 华为) is a Chinese multinational networking, telecommunications equipment, and services company headquartered in Shenzhen, Guangdong. It is the largest telecommunications equipment manufacturer in the world, having overtaken Ericsson in 2012.  In 2017, Huawei became 83th of Fortune 500 in Fortune Magazine.
-"China wants to be the leader, not a follower in 5G," Richard Yu, CEO of Huawei's consumer products division, said in a keynote address.
+
+The CEO of Huawei's consumer products division is Richard Yu. He reveal the ambition of the Chinese internet companies in the Ces 2018: China wants to be the leader, not a follower in 5G. 
 
 "We were behind in 3G development, but we caught up with others in 4G and will be the global leader of the ICT (information and communications technology) industry in the era of 5G."
-For Huawei, 5G innovations made it into the keynote speech that launched the Mate 10 Pro smartphone, which features the world's fastest "4.5G or pre-5G experience".
-5G is the next frontier in mobile networks and wireless communications, and will feature faster data transfer.
+
+<img src= "http://www.mobilemagazinehk.com/wp-content/uploads/2018/01/DSC00089.0-1-800x500_c.jpg">
+
+
+For Huawei, 5G innovations made it into the keynote speech that launched the Mate 10 Pro smartphone, which features the world's fastest "4.5G or pre-5G experience". 5G is the next frontier in mobile networks and wireless communications, and will feature faster data transfer. 
 
 ### ZTE : screen, one is not enough! 
 
