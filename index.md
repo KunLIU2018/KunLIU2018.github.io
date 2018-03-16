@@ -66,32 +66,32 @@ Released late last year in an exclusive deal with AT&T, the Axon M is revolution
 ### Byton : Chinese Tesla is on rising
 <img src= "https://icdn2.digitaltrends.com/image/byton-electric-intelligent-suv-makes-global-debut-at-ces-1.jpg"> 
 
-Future Mobility Corporation is a Chinese automobile company established in 2016 and incorporated in Hong Kong, co-founded by former BMW and Nissan Motor executives. It announced its first proposed car under the new Byton(拜腾) marque in September 2017 . 
-At this year's CES,Byton unveiled its first concept car to the public and announced that it has partnered with self-driving vehicle technology startup Aurora. The buzzy startup, led some of the best minds in self-driving cars, will work on bringing Level 4 autonomous vehicle capabilities into Byton vehicles. The two companies will conduct a pilot deployment of Aurora's L4 autonomous driving systems on Byton vehicles in the "next two years." The pilot will be in California, Aurora CEO Chris Urmson said. Urmson previously led the Google self-driving project before it spun out to become Waymo, a business under parent Alphabet. Byton was named by the internations as the "Chinese Tesla", which is expected to be mass produced soon and sell at $45,000, making it a real competitor to Tesla.
+Future Mobility Corporation is a Chinese automobile company established in 2016 and incorporated in Hong Kong, co-founded by former BMW and Nissan Motor executives. It announced its first proposed car under the new Byton(拜腾) marque in September 2017. 
 
 <img src= "https://www.technobuffalo.com/wp-content/uploads/2018/01/9-Byton-Concept-SUV.jpg">
+
+At this year's CES,Byton unveiled its first concept car to the public and announced that it has partnered with self-driving vehicle technology startup Aurora. The buzzy startup, led some of the best minds in self-driving cars, will work on bringing Level 4 autonomous vehicle capabilities into Byton vehicles. The two companies will conduct a pilot deployment of Aurora's L4 autonomous driving systems on Byton vehicles in the "next two years." The pilot will be in California, Aurora CEO Chris Urmson said. Urmson previously led the Google self-driving project before it spun out to become Waymo, a business under parent Alphabet. Byton was named by the internations as the "Chinese Tesla", which is expected to be mass produced soon and sell at $45,000, making it a real competitor to Tesla.
+
 
 ### Xiaomi : Enjoy VR anywhere with your phone
 
 <img src= "https://cdn.vox-cdn.com/uploads/chorus_asset/file/9999641/DSC00054.jpg"> 
 
-Xiaomi Inc. (Chinese: 小米 ), is a Chinese electronics and software company headquartered in Beijing. Xiaomi designs, develops, and sells smartphones, mobile apps, laptops and related consumer electronics.
+Xiaomi Inc. (Chinese: 小米 ), is a Chinese electronics and software company headquartered in Beijing. Xiaomi designs, develops, and sells smartphones, mobile apps, laptops and related consumer electronics. Since its launch in 2010, the company has gone on to become one of the largest smartphone manufacturers in the world, challenging Apple and Samsung for market share, particularly in China and Southeast Asia.
 
-China's smartphone vendor Xiaomi Corp joined hands with Oculus, the virtual reality or VR equipment maker backed by Facebook Inc, to provide a VR product with both high quality and affordable prices.
-Hugo Barra, vice-president of VR at Facebook, said at the CES, "Oculus and Xiaomi are jointly announcing a new standalone VR product that is designed specifically for the Chinese market, which will be known as Mi VR."
+<img src= "https://roadtovrlive-5ea0.kxcdn.com/wp-content/uploads/2016/10/mi-vr-5.jpg"> 
 
-### TCL : 8k Tv screen, real than ever
+Xiaomi Corp in the ces 2018, joined hands with Oculus, the virtual reality or VR equipment maker backed by Facebook Inc, to provide a VR product with both high quality and affordable prices. Oculus and Xiaomi are jointly announcing a new standalone VR product that is designed specifically for the Chinese market, which will be known as Mi VR. Mi VR gives the VR lovers a affordable access to the VR games and apllication. Besides, it works with Facebook ,making it much possible to desgin the following service softwares and providing the more fun and entertainment to the customers. 
+
+### TCL : Roku Smart TV controller and 6-Series TVs 
 
 <img src= "https://i.ytimg.com/vi/OeIFzIz3-ew/maxresdefault.jpg"> 
+
 TCL Corporation (Chinese: TCL集团) is a Chinese multinational electronics company headquartered in Huizhou, Guangdong Province. It designs, develops, manufactures and sells products including television sets, mobile phones, air conditioners, washing machines, refrigerators and small electrical appliances. In 2010 it was the world's 25th-largest consumer electronics producer. In 2013, it was third-largest television producer by market share.
 
-TCL unveiled a smart sound bar as a highlight of its lineup. The TCL Roku Smart can control Roku devices through Roku's voice assistant.
+<img src= "https://cdn.mos.cms.futurecdn.net/KdcKv62JLbatDmzAwbKWub-650-80.jpg"> 
 
-Customers can ask the sound bar to launch video even when the TV is turned off. The sound bar is expected to be available in late 2018.
-
-<img src= "https://sampi.co/wp-content/uploads/2014/04/china_tech.jpg"> 
-
-
+TCL unveiled a smart sound bar as a highlight of its lineup. The TCL Roku Smart can control Roku devices through Roku's voice assistant. Customers can ask the sound bar to launch video even when the TV is turned off. The sound bar is expected to be available in late 2018. Down at the budget end of the market, TCL has been making a name for itself for some time now (with the help of Roku), and the 6-Series TVs it unveiled at CES 2018 look to be continuing the TCL tradition of fab-looking panels at very reasonable prices. Available in 55 or 66 inches, the sets come with built-in support for Dolby Vision, as well as some smart tech for improving contrast balance and color gamut. There's also a brushed metal finish, putting these models one step above the usual TCL fare.
 
 ## Part two:the Geo Distribution of the high-tech in china 
 As many as 1,551 Chinese companies registered to display their products and software applications in Las Vegas this week, out of a record turnout of 4,500 exhibitors, according to the Consumer Technology Association, which organised the show.
@@ -116,6 +116,9 @@ The biggest bloc of the Chinese companies - 482 of them - were from Shenzhen, th
 
 ## Part three :Why the tech-wave is spreading in china? 
 <img src= "https://cdn4.i-scmp.com/sites/default/files/images/methode/2018/01/10/81bcabcc-f524-11e7-8693-80d4e18fb3a2_image_hires_081734.JPG"> 
+
+
+<img src= "https://sampi.co/wp-content/uploads/2014/04/china_tech.jpg"> 
 
 ### Jekyll Themes 
 
