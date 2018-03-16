@@ -115,17 +115,17 @@ We can find out that Guangdong, Shanghai, and Beijing are top 3 areas where the 
 
 How has the tide turned in China’s favor? There are three main factors fuelling the growth of Chinese tech according to the Forbs Asia. 
 
-Firstly, economic growth is driving the expansion of internet companies. 
+- Firstly, economic growth is driving the expansion of internet companies. 
 
 China’s internet market grew by 6.2% last year to 731 million people, with 95.1% accessing the web via their mobile phones, according to data provided by the China Internet Network Information Center. And a growing middle class will lead to increased demand for innovative products and services
 
-Secondly, a strong supply of talent into the labor market has also helped the country’s tech sector. 
+- Secondly, a strong supply of talent into the labor market has also helped the country’s tech sector. 
 
 <img src= "https://assets.weforum.org/editor/PSSvl1XRKP4L2tFL2PNtPufC-vkFfy8j6lbozV_pisg.JPG">
 
 In recent years there's been an influx of highly trained people into the science and technology sector. As a result, a large and sophisticated labor force has emerged to fulfill demand for future technology. With such a huge population behind it, China’s push for new technology will surely benefit.
 
-Thirdly, it's impossible to overlook the government’s strong support. 
+- Thirdly, it's impossible to overlook the government’s strong support. 
 
 <img src= "https://sampi.co/wp-content/uploads/2014/04/china_tech.jpg"> 
 
