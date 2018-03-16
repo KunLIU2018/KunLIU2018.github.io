@@ -5,11 +5,12 @@
 
 This wiki page is dedicated to introduce the Consumer Electronics Show (CES) 2018 in Las vegas. Since 2015, the chinese technology companies start to play an important role on this yearly exhibition and catch the attention of the attendance from all over the world. So this wiki page will help the view have a closer approach to the CES 2018 with a study focus on the chinese companies. It mainly has 3 parts on this web: *the introduction to the key chinese techonlogy companies*, *the geo-distribution of the companies (normal graphe and D3 visalisation)*, and *the analysis of the strong technology trend in china*. 
 
-## the history-breaking figures
+## Part one : the history-breaking figures and innovations in china 
 Chinese technology companies were in the limelight at this year’s Consumer Electronics Show in Las Vegas as more than 1,500 companies put their gadgets and innovations in the spotlight.
+
 With Chinese exhibitors second only to the United States' roughly 1,600 companies at the CES, their new cooperations, products, and technology displays also came to the fore.
-According to an earlier report by China Daily, Chinese participants are much more confident and much better at communication than before, said Joana Wei, an investor based in Palo Alto, California.
-Now let's catch some of their glittering moments at the event.
+
+According to an earlier report by China Daily, Chinese participants are much more confident and much better at communication than before.Now let's catch some of their glittering moments at the event.
 
 ### *BAIDU* : Apollo, self - driving car for future 
 
@@ -81,7 +82,7 @@ Customers can ask the sound bar to launch video even when the TV is turned off. 
 
 
 
-## the Geo Distribution of the high-tech in china 
+## Part two:the Geo Distribution of the high-tech in china 
 As many as 1,551 Chinese companies registered to display their products and software applications in Las Vegas this week, out of a record turnout of 4,500 exhibitors, according to the Consumer Technology Association, which organised the show.
 The biggest bloc of the Chinese companies - 482 of them - were from Shenzhen, the test bed of China’s 1978 experiment with capitalism just north of Hong Kong, and a claimant to the title as China’s Silicon Valley, according to the CTA’s data.
 
@@ -102,7 +103,7 @@ The biggest bloc of the Chinese companies - 482 of them - were from Shenzhen, th
 
 
 
-## Why the tech-wave is spreading in china? 
+## Part three :Why the tech-wave is spreading in china? 
 <img src= "https://cdn4.i-scmp.com/sites/default/files/images/methode/2018/01/10/81bcabcc-f524-11e7-8693-80d4e18fb3a2_image_hires_081734.JPG"> 
 
 ### Jekyll Themes 
