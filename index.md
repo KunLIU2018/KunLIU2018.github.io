@@ -66,10 +66,10 @@ Released late last year in an exclusive deal with AT&T, the Axon M is revolution
 ### Byton : Chinese Tesla is on rising
 <img src= "https://icdn2.digitaltrends.com/image/byton-electric-intelligent-suv-makes-global-debut-at-ces-1.jpg"> 
 
-Byton  (拜腾) announced Monday that it has partnered with self-driving vehicle technology startup Aurora. The buzzy startup, led some of the best minds in self-driving cars, will work on bringing Level 4 autonomous vehicle capabilities into Byton vehicles. The two companies will conduct a pilot deployment of Aurora's L4 autonomous driving systems on Byton vehicles in the "next two years." The pilot will be in California, Aurora CEO Chris Urmson said. Urmson previously led the Google self-driving project before it spun out to become Waymo, a business under parent Alphabet.
+Future Mobility Corporation is a Chinese automobile company established in 2016 and incorporated in Hong Kong, co-founded by former BMW and Nissan Motor executives. It announced its first proposed car under the new Byton(拜腾) marque in September 2017 . 
+At this year's CES,Byton unveiled its first concept car to the public and announced that it has partnered with self-driving vehicle technology startup Aurora. The buzzy startup, led some of the best minds in self-driving cars, will work on bringing Level 4 autonomous vehicle capabilities into Byton vehicles. The two companies will conduct a pilot deployment of Aurora's L4 autonomous driving systems on Byton vehicles in the "next two years." The pilot will be in California, Aurora CEO Chris Urmson said. Urmson previously led the Google self-driving project before it spun out to become Waymo, a business under parent Alphabet. Byton was named by the internations as the "Chinese Tesla", which is expected to be mass produced soon and sell at $45,000, making it a real competitor to Tesla.
 
-Byton CEO Carsten Breitfeld speaks during the announcement of a smart intuitive vehicle concept car, the CES, in Las Vegas on Jan 7, 2018。
-This year's star is Byton, an electric car unveiled at CES known as China's Tesla. It is expected to be mass produced and sell at $45,000, making it a real competitor to Tesla.
+<img src= "https://www.technobuffalo.com/wp-content/uploads/2018/01/9-Byton-Concept-SUV.jpg">
 
 ### Xiaomi : Enjoy VR anywhere with your phone
 
