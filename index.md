@@ -52,6 +52,7 @@ ZTE took its 5G Future Tunnel along to the expo to show visitors how the technol
 "China has attached great importance to 5G development," said Cheng Lixin, CEO of ZTE Mobile Devices. "We are speeding up our development this year, accelerating steps to gain a lead in the race toward commercializing the next-generation communication technology."
 
 ### Byton
+<img src= "https://icdn2.digitaltrends.com/image/byton-electric-intelligent-suv-makes-global-debut-at-ces-1.jpg"> 
 
 Byton  (拜腾) announced Monday that it has partnered with self-driving vehicle technology startup Aurora. The buzzy startup, led some of the best minds in self-driving cars, will work on bringing Level 4 autonomous vehicle capabilities into Byton vehicles. The two companies will conduct a pilot deployment of Aurora's L4 autonomous driving systems on Byton vehicles in the "next two years." The pilot will be in California, Aurora CEO Chris Urmson said. Urmson previously led the Google self-driving project before it spun out to become Waymo, a business under parent Alphabet.
 
@@ -59,13 +60,16 @@ Byton CEO Carsten Breitfeld speaks during the announcement of a smart intuitive 
 This year's star is Byton, an electric car unveiled at CES known as China's Tesla. It is expected to be mass produced and sell at $45,000, making it a real competitor to Tesla.
 
 ### Xiaomi
+
+<img src= "https://cdn.vox-cdn.com/uploads/chorus_asset/file/9999641/DSC00054.jpg"> 
+
 Xiaomi Inc. (Chinese: 小米 ), is a Chinese electronics and software company headquartered in Beijing. Xiaomi designs, develops, and sells smartphones, mobile apps, laptops and related consumer electronics.
 
 China's smartphone vendor Xiaomi Corp joined hands with Oculus, the virtual reality or VR equipment maker backed by Facebook Inc, to provide a VR product with both high quality and affordable prices.
 Hugo Barra, vice-president of VR at Facebook, said at the CES, "Oculus and Xiaomi are jointly announcing a new standalone VR product that is designed specifically for the Chinese market, which will be known as Mi VR."
 
 ### TCL
-
+<img src= "https://i.ytimg.com/vi/OeIFzIz3-ew/maxresdefault.jpg"> 
 TCL Corporation (Chinese: TCL集团) is a Chinese multinational electronics company headquartered in Huizhou, Guangdong Province. It designs, develops, manufactures and sells products including television sets, mobile phones, air conditioners, washing machines, refrigerators and small electrical appliances. In 2010 it was the world's 25th-largest consumer electronics producer. In 2013, it was third-largest television producer by market share.
 
 TCL unveiled a smart sound bar as a highlight of its lineup. The TCL Roku Smart can control Roku devices through Roku's voice assistant.
