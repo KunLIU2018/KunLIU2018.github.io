@@ -2,7 +2,7 @@
 
 <img src= "https://pic.36krcnd.com/201801/12062805/p4s80v93b03t0pec!1200">
 
-This wiki page is dedicated to introducing the Consumer Electronics Show (CES) 2018 in Las vegas. Since 2015, the Chinese technology companies start to play an important role on this yearly exhibition and catch the attention of the attendance from all over the world. So this wiki page will help the view have a closer approach to the CES 2018 with a study focus on the Chinese companies. It mainly has 3 parts on this web: *the introduction to the key Chinese technology companies*, *the geo-distribution of the companies (normal graphed and D3 visualization) *, and *the analysis of the strong technology trend in china*. 
+This wiki page is dedicated to introducing the Consumer Electronics Show (CES) 2018 in Las vegas. Since 2015, the Chinese technology companies start to play an important role on this yearly exhibition and catch the attention of the attendance from all over the world. So this wiki page will help the viewers have a closer approach to the CES 2018 with a study focus on the Chinese companies. It mainly has 3 parts on this web: the introduction to the key Chinese technology companies, the geo-distribution of the companies (normal graph and D3 visualization), and the analysis of the strong technology trend in china. 
 
 ## Part one: the history-breaking figures and innovations in china 
 Chinese technology companies were in the limelight at this year's Consumer Electronics Show in Las Vegas as more than 1,500 companies put their gadgets and innovations in the spotlight.
